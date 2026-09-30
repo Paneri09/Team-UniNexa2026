@@ -102,6 +102,7 @@ Then open the local development URL shown in the terminal.
 ## 👥 Team
 
 **Team:** UniNexa
+
 **Members:** Paneri Mandavgane · Manu Pal · Adarsh Singh · Rishabh Mishra  
 
 **Project:** NexaONE  
