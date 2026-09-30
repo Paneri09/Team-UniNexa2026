@@ -1,0 +1,6 @@
+{
+  "name": "NexaONE - Smart University Digital Campus",
+  "description": "One Campus. One Digital Experience. A unified digital campus platform connecting students, faculty, academics, attendance, e-library, documents, events, and campus services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
